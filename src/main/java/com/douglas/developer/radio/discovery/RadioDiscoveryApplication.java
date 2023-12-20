@@ -12,8 +12,3 @@ public class RadioDiscoveryApplication {
 		SpringApplication.run(RadioDiscoveryApplication.class, args);
 	}
 }
-
-//Teste alteração branch
-//Outra alteração
-//Terceira
-//NovoRamoApartirDaDevelop
